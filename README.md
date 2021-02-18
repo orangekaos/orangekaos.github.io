@@ -1,4 +1,3 @@
-# orangekaos.github.io
-orangekaos.com
+# orangekaos.com
 
-![alt text](https://github.com/orangekaos/orangekaos.github.io/blob/master/site_media/gfx/logo.png)
+![orangekaos](https://raw.githubusercontent.com/orangekaos/orangekaos.github.io/main/site_media/gfx/logo.png)
